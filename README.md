@@ -22,8 +22,8 @@ A SwiftUI-based word game where you unscramble letters to form valid English wor
 
 ### Getting Started
 
-1.Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
-2.Open the project in Xcode.
+2. Open the project in Xcode.
 
-3.Run the app on a simulator or physical device.
+3. Run the app on a simulator or physical device.
